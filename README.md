@@ -5,4 +5,5 @@
 3. By Default readme page is displayed. Add a Index.html page to act as root page
 2. Check environment tab, to see if the changes are published
 
-Website URL: https://parthi007.github.io/AboutMe/
+Website URL: https://parthi007.github.io/<repositoryname>/
+  If you name your repository same as your github username, then the url would be https://parthi007.github.io/
