@@ -1,5 +1,4 @@
-# Website
-Parthiban Kothandan Website
+# Website using Github
 
 1. Enable github pages: Repository >> settings>>Pages
 2. Enable a theme: Repository >> settings>>themes
